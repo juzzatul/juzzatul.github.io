@@ -4,7 +4,7 @@ title: "📂 Section D: Evidence of Learning"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a/) | [🅱️ Section B](/section-b/) | [🇨️ Section C](/section-c/) | [ㄉ Section D (#)](#) | [🅴 Section E](/section-e/)
+[🏠 Home](/juzzatul.github.io/) | [🅰️ Section A](/juzzatul.github.io/section-a) | [🅱️ Section B](/juzzatul.github.io/section-b) | [🇨️ Section C](/juzzatul.github.io/section-c) | [ㄉ Section D (#)](#) | [🅴 Section E](/juzzatul.github.io/section-e)
 
 ---
 
