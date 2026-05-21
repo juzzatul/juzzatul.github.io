@@ -4,7 +4,7 @@ title: "🇨️ Section C: Career Development Plan"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a) | [🅱️ Section B](/section-b) | [🇨️ Section C (#)](#) | [ㄉ Section D](/section-d) | [🅴 Section E](/section-e)
+[🏠 Home](/) | [🅰️ Section A](/section-a) | [🅱️ Section B](/section-b) | [<span style="color:#ff5722; font-weight:bold; font-size:1.1em;">🇨️ Section C</span>](#) | [ㄉ Section D](/section-d) | [🅴 Section E](/section-e)
 
 ---
 
