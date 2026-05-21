@@ -1,2 +1,18 @@
 theme: jekyll-theme-cayman
 title: "Juzzatul's Professional E-Portfolio"
+description: "CSA30203 Special Topics in Computer Network Security | Instructor: Dr. Nazirah"
+
+# Custom Elegant CSS Injection
+# This overrides the boring default font with a highly polished, professional typography stack
+sass:
+  style: :compressed
+inline_css: >
+  body { 
+    font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif !important; 
+    letter-spacing: -0.01em;
+  }
+  h1, h2, h3, h4 { 
+    font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif !important; 
+    font-weight: 700 !important;
+    letter-spacing: -0.02em; 
+  }
