@@ -4,7 +4,7 @@ title: "📂 Section E: Personal Reflection"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a/) | [🅱️ Section B](/section-b/) | [🇨️ Section C](/section-c/) | [ㄉ Section D](/section-d/) | [🅴 Section E (#)](#)
+[🏠 Home](/juzzatul.github.io/) | [🅰️ Section A](/juzzatul.github.io/section-a) | [🅱️ Section B](/juzzatul.github.io/section-b) | [🇨️ Section C](/juzzatul.github.io/section-c) | [ㄉ Section D](/juzzatul.github.io/section-d) | [🅴 Section E (#)](#)
 
 ---
 
