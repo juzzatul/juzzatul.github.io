@@ -1,0 +1,20 @@
+theme: jekyll-theme-minimal
+title: Career Portfolio
+description: CSA30203 Special Topics in Computer Network Security
+
+# This creates your clickable sidebar folders
+sidebar:
+  - title: "Navigation"
+    nav: sidebar-nav
+
+sidebar-nav:
+  - title: "📂 Section A: Career Exploration"
+    url: /section-a/
+  - title: "📂 Section B: Skills Assessment"
+    url: /section-b/
+  - title: "📂 Section C: Development Plan"
+    url: /section-c/
+  - title: "📂 Section D: Evidence of Learning"
+    url: /section-d/
+  - title: "📂 Section E: Personal Reflection"
+    url: /section-e/
