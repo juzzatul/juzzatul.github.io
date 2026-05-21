@@ -4,7 +4,7 @@ title: "🇨️ Section C: Career Development Plan"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a/) | [🅱️ Section B](/section-b/) | [🇨️ Section C (#)](#) | [ㄉ Section D](/section-d/) | [🅴 Section E](/section-e/)
+[🏠 Home](/juzzatul.github.io/) | [🅰️ Section A](/juzzatul.github.io/section-a) | [🅱️ Section B](/juzzatul.github.io/section-b) | [🇨️ Section C (#)](#) | [ㄉ Section D](/juzzatul.github.io/section-d) | [🅴 Section E](/juzzatul.github.io/section-e)
 
 ---
 
