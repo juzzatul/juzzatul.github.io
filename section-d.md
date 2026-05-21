@@ -3,6 +3,11 @@ layout: default
 title: "📂 Section D: Evidence of Learning"
 ---
 
+# 🗂️ Portfolio Navigation Tabs
+[🏠 Home](/) | [🅰️ Section A](/section-a/) | [🅱️ Section B](/section-b/) | [🇨️ Section C](/section-c/) | [ㄉ Section D (#)](#) | [🅴 Section E](/section-e/)
+
+---
+
 To validate my technical capabilities and hands-on readiness for a career in network security and infrastructure protection, this section highlights key academic, developmental, and service-learning initiatives completed during my studies.
 
 ### 1. Key Projects
