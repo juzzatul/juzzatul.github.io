@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Section C: Career Development Plan
-permalink: /section-c/
+layout: default
+title: "📂 Section C: Development Plan"
 ---
 
 ### 1. Technical Tools Mastery Target
-* **Advanced Traffic Analysis:** Transitioning from basic packet inspection to advanced filtering, custom protocol decoding, and automated tshark (terminal-based Wireshark) scripting using tools like Wireshark.
+* **Advanced Traffic Analysis:** Transitioning from basic packet inspection to advanced filtering, custom protocol decoding, and automated tshark scripting using tools like Wireshark.
 * **Enterprise Infrastructure & Linux Administration:** Deepening command-line capabilities, system log auditing, and setting up secure shell environments within enterprise-grade Linux distributions.
 * **Security Automation Scripting:** Utilizing Python to interface with networking libraries (like Scapy) to simulate network packet generation, validate firewall rule enforcement, and automate log analysis workflows.
 
