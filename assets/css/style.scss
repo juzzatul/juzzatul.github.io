@@ -16,11 +16,11 @@ h2, h3, h4 {
   color: #512da8 !important;
 }
 
-/* 🌟 STUNNING PURPLE HEADER BLOCK OVERRIDE 🌟 */
+/* 🌟 SMOOTH GRADIENT TOP HEADER OVERRIDE 🌟 */
 .page-header {
-  background-color: #4a148c !important; /* Deep Royal Purple Base */
-  background-image: linear-gradient(120deg, #4a148c, #6a1b9a) !important; /* Elegant Purple Gradient */
-  color: #ffffff !important; /* Forces Text to be White */
+  background-color: #311b92 !important; /* Fallback deep violet color */
+  background-image: linear-gradient(120deg, #4a148c, #1565c0) !important; /* Smooth diagonal purple-to-blue gradient */
+  color: #ffffff !important; 
 }
 
 /* Force Header Title and Description Text to be Crisp White */
