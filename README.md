@@ -6,10 +6,11 @@
 ---
 
 ### 🗂️ Portfolio Navigation Dashboard
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| [📁 Section A](#-section-a-career-exploration) | [📁 Section B](#-section-b-personal-skills-assessment) | [📁 Section C](#-section-c-career-development-plan) | [📁 Section D](#-section-d-evidence-of-learning) | [📁 Section E](#-section-e-personal-reflection) |
-| Career Exploration | Skills Assessment | Development Plan | Evidence of Learning | Personal Reflection |
+* 📁 [**Section A:** Career Exploration](#-section-a-career-exploration)
+* 📁 [**Section B:** Personal Skills Assessment](#-section-b-personal-skills-assessment)
+* 📁 [**Section C:** Career Development Plan](#-section-c-career-development-plan)
+* 📁 [**Section D:** Evidence of Learning](#-section-d-evidence-of-learning)
+* 📁 [**Section E:** Personal Reflection](#-section-e-personal-reflection)
 
 ---
 
