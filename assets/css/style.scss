@@ -2,19 +2,34 @@
 ---
 @import "{{ site.theme }}";
 
-/* Elegant Font Setup */
+/* Elegant Font Setup Across Website */
 body { 
   font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif !important; 
   letter-spacing: -0.01em;
 }
-h1, h2, h3, h4 { 
+
+/* Make Subheadings Purple */
+h2, h3, h4 { 
   font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif !important; 
   font-weight: 700 !important;
   letter-spacing: -0.02em; 
   color: #512da8 !important;
 }
 
-/* Premium Purple Structural Elements */
+/* 🌟 STUNNING PURPLE HEADER BLOCK OVERRIDE 🌟 */
+.page-header {
+  background-color: #4a148c !important; /* Deep Royal Purple Base */
+  background-image: linear-gradient(120deg, #4a148c, #6a1b9a) !important; /* Elegant Purple Gradient */
+  color: #ffffff !important; /* Forces Text to be White */
+}
+
+/* Force Header Title and Description Text to be Crisp White */
+.project-name, .project-tagline {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Premium Purple Table Borders & Text Formatting */
 th, td {
   border: 1px solid #7e57c2 !important;
 }
@@ -27,7 +42,7 @@ hr {
   border: none !important;
 }
 
-/* Clickable Tab Link Colors */
+/* Navigation Tab Hyperlink Formatting */
 a {
   color: #673ab7 !important;
 }
