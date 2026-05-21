@@ -5,10 +5,15 @@
 
 ---
 
-<details>
-<summary>📂 <b>Section A: Career Exploration (Click to Expand)</b></summary>
-<br>
+### 🗂️ Portfolio Navigation Dashboard
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| [📁 Section A](#-section-a-career-exploration) | [📁 Section B](#-section-b-personal-skills-assessment) | [📁 Section C](#-section-c-career-development-plan) | [📁 Section D](#-section-d-evidence-of-learning) | [📁 Section E](#-section-e-personal-reflection) |
+| Career Exploration | Skills Assessment | Development Plan | Evidence of Learning | Personal Reflection |
 
+---
+
+## 🅰️ Section A: Career Exploration
 ### Chosen Role: Network Security Analyst
 
 #### 1. Job Responsibilities
@@ -24,13 +29,11 @@
 #### 3. Relevance to Modern Cybersecurity
 Modern cybersecurity has shifted away from perimeter-only defenses (like basic firewalls) toward zero-trust architectures and automated detection. Because advanced persistent threats (APTs) hide malicious payloads inside seemingly harmless network traffic or media streams, organizations require analysts who understand low-level packet mechanics. A network security analyst ensures that data integrity is maintained across complex cloud and on-premises environments, serving as an organization's primary line of defense against active network intrusions.
 
-</details>
+[⬆️ Back to Dashboard](#%EF%B8%8F-portfolio-navigation-dashboard)
 
 ---
 
-<details>
-<summary>📂 <b>Section B: Personal Skills Assessment (Click to Expand)</b></summary>
-<br>
+## 🅱️ Section B: Personal Skills Assessment
 
 ### 1. Identify Current Skills
 
@@ -53,13 +56,11 @@ The following matrix evaluates my current academic and practical profile against
 | **Security Automation** | Competent in standalone Python/C++ script execution for custom utilities. | Familiarity with secure DevSecOps pipelines and automated configuration management (Ansible, Docker). | Integrate containerization basics into upcoming deployment layouts and study secure coding frameworks. |
 | **Incident Response** | Deep understanding of payload analysis, signal anomalies, and protocol design. | Hands-on experience with playbooks, real-time threat triaging, and regulatory compliance standards. | Pursue industry-standard foundations to align technical problem-solving with structured corporate incident workflows. |
 
-</details>
+[⬆️ Back to Dashboard](#%EF%B8%8F-portfolio-navigation-dashboard)
 
 ---
 
-<details>
-<summary>📂 <b>Section C: Career Development Plan (Click to Expand)</b></summary>
-<br>
+## 🇨️ Section C: Career Development Plan
 
 ### 1. Technical Tools Mastery Target
 * **Advanced Traffic Analysis:** Transitioning from basic packet inspection to advanced filtering, custom protocol decoding, and automated tshark (terminal-based Wireshark) scripting using tools like Wireshark.
@@ -84,13 +85,11 @@ Secure a position as a Junior Network Security Analyst or Associate Cybersecurit
 #### Long-Term Goal (5 Years)
 Advance into a Senior Infrastructure Security Engineer or Security Architect role. At this benchmark, the focus will shift from day-to-day threat monitoring to architecting secure data transmission systems, auditing cryptographic validation layouts, and designing resilient internal protocol standards to shield enterprise infrastructure against evolving persistent threats.
 
-</details>
+[⬆️ Back to Dashboard](#%EF%B8%8F-portfolio-navigation-dashboard)
 
 ---
 
-<details>
-<summary>📂 <b>Section D: Evidence of Learning (Click to Expand)</b></summary>
-<br>
+## ㄉ Section D: Evidence of Learning
 
 To validate my technical capabilities and hands-on readiness for a career in network security and infrastructure protection, this section highlights key academic, developmental, and service-learning initiatives completed during my studies.
 
@@ -118,13 +117,11 @@ To validate my technical capabilities and hands-on readiness for a career in net
 * **Relevance to Security:** Highlights strong soft skills, risk assessment documentation, operational analysis capabilities, and public communication.
 * **Evidence:** `[Insert a link to your report, a photo from the project, or a screenshot of your analysis summary here]`
 
-</details>
+[⬆️ Back to Dashboard](#%EF%B8%8F-portfolio-navigation-dashboard)
 
 ---
 
-<details>
-<summary>📂 <b>Section E: Personal Reflection (Click to Expand)</b></summary>
-<br>
+## 🅴 Section E: Personal Reflection
 
 ### Chosen Target Company: Sabah Electricity Sdn. Bhd. (SESB)
 
@@ -145,4 +142,4 @@ The value I bring to SESB is a distinct engineering capability to diagnose low-l
 #### 4. Why should a company choose to hire you?
 SESB should choose to hire me because I offer a strong blend of a Computer Network Security specialization, hands-on programming agility, and real-world execution discipline. I view utility network security through a builder’s lens—focusing on how to build localized parsing scripts, protect systemic network traffic lanes, and defend industrial data assets without interrupting daily service reliability.
 
-</details>
+[⬆️ Back to Dashboard](#%EF%B8%8F-portfolio-navigation-dashboard)
