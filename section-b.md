@@ -4,7 +4,7 @@ title: "🅱️ Section B: Personal Skills Assessment"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a) | [🅱️ Section B (#)](#) | [🇨️ Section C](/section-c) | [ㄉ Section D](/section-d) | [🅴 Section E](/section-e)
+[🏠 Home](/) | [🅰️ Section A](/section-a) | [<span style="color:#ff5722; font-weight:bold; font-size:1.1em;">🅱️ Section B</span>](#) | [🇨️ Section C](/section-c) | [ㄉ Section D](/section-d) | [🅴 Section E](/section-e)
 
 ---
 
