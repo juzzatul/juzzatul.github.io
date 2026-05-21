@@ -4,7 +4,7 @@ title: "🅰️ Section A: Career Exploration"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A (#)](#) | [🅱️ Section B](/section-b) | [🇨️ Section C](/section-c) | [ㄉ Section D](/section-d) | [🅴 Section E](/section-e)
+[🏠 Home](/) | [<span style="color:#ff5722; font-weight:bold; font-size:1.1em;">🅰️ Section A</span>](#) | [🅱️ Section B](/section-b) | [🇨️ Section C](/section-c) | [ㄉ Section D](/section-d) | [🅴 Section E](/section-e)
 
 ---
 
