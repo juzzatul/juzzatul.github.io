@@ -3,6 +3,11 @@ layout: default
 title: "📂 Section E: Personal Reflection"
 ---
 
+# 🗂️ Portfolio Navigation Tabs
+[🏠 Home](/) | [🅰️ Section A](/section-a/) | [🅱️ Section B](/section-b/) | [🇨️ Section C](/section-c/) | [ㄉ Section D](/section-d/) | [🅴 Section E (#)](#)
+
+---
+
 ### Chosen Target Company: Sabah Electricity Sdn. Bhd. (SESB)
 
 #### 1. Why do you want to work for this company, and what value can you bring?
