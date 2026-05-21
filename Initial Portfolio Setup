@@ -1,0 +1,20 @@
+## Section A: Career Exploration
+### Chosen Role: Network Security Analyst
+
+#### 1. Job Responsibilities
+* **Traffic and Packet Inspection:** Monitoring enterprise network traffic using tools like Wireshark to identify anomalies and malicious signature patterns.
+* **Security Automation & Scripting:** Developing internal Python and C++ scripts to automate log parsing and response triaging.
+* **Cryptographic & Protocol Auditing:** Ensuring data-in-transit protocols comply with cryptographic standards.
+
+#### 2. Required Skills
+* **Deep Protocol Knowledge:** Mastery of the OSI model, TCP/IP stack, and packet structures.
+* **Programming Literacy:** Proficiency in languages like C++ and Python to construct custom security utilities.
+* **Analytical Problem Solving:** Separating background noise from legitimate threats within data streams.
+
+#### 3. Relevance to Modern Cybersecurity
+Modern cybersecurity relies heavily on zero-trust architectures. Because advanced threats often hide payloads inside routine network traffic, organizations need analysts who can deep-dive into low-level packet mechanics to defend critical infrastructure.
+
+---
+
+## 🅱️ Section B: Personal Skills Assessment
+*(Coming soon...)*
