@@ -4,7 +4,7 @@ title: "🅱️ Section B: Personal Skills Assessment"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a/) | [🅱️ Section B (#)](#) | [🇨️ Section C](/section-c/) | [ㄉ Section D](/section-d/) | [🅴 Section E](/section-e/)
+[🏠 Home](/juzzatul.github.io/) | [🅰️ Section A](/juzzatul.github.io/section-a) | [🅱️ Section B (#)](#) | [🇨️ Section C](/juzzatul.github.io/section-c) | [ㄉ Section D](/juzzatul.github.io/section-d) | [🅴 Section E](/juzzatul.github.io/section-e)
 
 ---
 
