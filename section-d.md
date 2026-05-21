@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Section D: Evidence of Learning
-permalink: /section-d/
+layout: default
+title: "📂 Section D: Evidence of Learning"
 ---
 
 To validate my technical capabilities and hands-on readiness for a career in network security and infrastructure protection, this section highlights key academic, developmental, and service-learning initiatives completed during my studies.
