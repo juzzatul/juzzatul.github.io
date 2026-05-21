@@ -4,7 +4,7 @@ title: "📂 Section E: Personal Reflection"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a) | [🅱️ Section B](/section-b) | [🇨️ Section C](/section-c) | [ㄉ Section D](/section-d) | [🅴 Section E (#)](#)
+[🏠 Home](/) | [🅰️ Section A](/section-a) | [🅱️ Section B](/section-b) | [🇨️ Section C](/section-c) | [ㄉ Section D](/section-d) | [<span style="color:#ff5722; font-weight:bold; font-size:1.1em;">🅴 Section E</span>](#)
 
 ---
 
