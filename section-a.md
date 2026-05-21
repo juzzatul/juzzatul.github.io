@@ -4,7 +4,7 @@ title: "🅰️ Section A: Career Exploration"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/juzzatul.github.io/) | [🅰️ Section A (#)](#) | [🅱️ Section B](/juzzatul.github.io/section-b) | [🇨️ Section C](/juzzatul.github.io/section-c) | [ㄉ Section D](/juzzatul.github.io/section-d) | [🅴 Section E](/juzzatul.github.io/section-e)
+[🏠 Home](/) | [🅰️ Section A (#)](#) | [🅱️ Section B](/section-b) | [🇨️ Section C](/section-c) | [ㄉ Section D](/section-d) | [🅴 Section E](/section-e)
 
 ---
 
