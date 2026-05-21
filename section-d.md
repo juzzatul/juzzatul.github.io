@@ -4,7 +4,7 @@ title: "📂 Section D: Evidence of Learning"
 ---
 
 # 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a) | [🅱️ Section B](/section-b) | [🇨️ Section C](/section-c) | [ㄉ Section D (#)](#) | [🅴 Section E](/section-e)
+[🏠 Home](/) | [🅰️ Section A](/section-a) | [🅱️ Section B](/section-b) | [🇨️ Section C](/section-c) | [<span style="color:#ff5722; font-weight:bold; font-size:1.1em;">ㄉ Section D</span>](#) | [🅴 Section E](/section-e)
 
 ---
 
