@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Section B: Personal Skills Assessment
-permalink: /section-b/
+layout: default
+title: "📂 Section B: Skills Assessment"
 ---
 
 ### 1. Identify Current Skills
