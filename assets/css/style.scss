@@ -1,46 +1,74 @@
-/* ===== Elegant Purple Theme ===== */
+/* ==============================
+   ELEGANT PURPLE PORTFOLIO THEME
+   ============================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: #faf8ff;
+    background: linear-gradient(
+        180deg,
+        #faf8ff 0%,
+        #f6f2ff 100%
+    );
     color: #2d2140;
     line-height: 1.8;
+    font-size: 16px;
 }
 
-/* Main title */
+/* Main Page Title */
 h1 {
     color: #5e35b1;
-    font-weight: 700;
-    font-size: 2.4rem;
+    font-size: 2.6rem;
+    font-weight: 800;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
     border-bottom: 3px solid #d1c4e9;
-    padding-bottom: 12px;
 }
 
-/* Section headings */
-h2, h3, h4 {
+/* Section Titles */
+h2 {
     color: #673ab7;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+h3 {
+    color: #7e57c2;
     font-weight: 600;
 }
 
-/* Paragraphs */
+h4 {
+    color: #9575cd;
+}
+
+/* Text */
 p {
+    color: #444;
     font-size: 1.05rem;
 }
 
-/* Navigation links */
+/* Links */
 a {
     color: #7e57c2;
     text-decoration: none;
-    transition: 0.3s;
+    transition: all 0.3s ease;
 }
 
 a:hover {
     color: #512da8;
 }
 
-/* Horizontal line */
+/* Navigation Bar */
+.nav-tabs {
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(103,58,183,0.08);
+    margin-bottom: 25px;
+}
+
+/* Divider */
 hr {
     border: none;
     height: 2px;
@@ -52,16 +80,83 @@ hr {
     );
 }
 
-/* Elegant cards */
+/* Premium Cards */
 .card {
     background: white;
-    padding: 25px;
-    border-radius: 18px;
-    box-shadow: 0 5px 20px rgba(103,58,183,0.10);
-    margin: 20px 0;
+    padding: 28px;
+    border-radius: 20px;
+    margin: 25px 0;
+
+    box-shadow:
+        0 8px 30px rgba(103,58,183,0.10);
+
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+
+    box-shadow:
+        0 12px 35px rgba(103,58,183,0.18);
 }
 
 /* Lists */
 ul li {
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+}
+
+/* Hero Banner */
+.hero-banner {
+    background: linear-gradient(
+        135deg,
+        #4a148c,
+        #673ab7,
+        #7e57c2
+    );
+
+    color: white;
+    padding: 60px 40px;
+    border-radius: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+
+    box-shadow:
+        0 12px 35px rgba(103,58,183,0.25);
+}
+
+.hero-banner h1 {
+    color: white;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-banner p {
+    color: rgba(255,255,255,0.9);
+    margin-top: 10px;
+}
+
+/* Question Number Styling */
+.question-title {
+    color: #5e35b1;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+/* Quote Box */
+.quote-box {
+    border-left: 5px solid #7e57c2;
+    background: #f5f1ff;
+    padding: 18px;
+    border-radius: 12px;
+    margin: 20px 0;
+    font-style: italic;
+}
+
+/* Smooth page look */
+main,
+.page-content,
+.wrapper {
+    max-width: 1100px;
 }
