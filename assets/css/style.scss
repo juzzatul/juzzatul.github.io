@@ -646,3 +646,15 @@ transition:.3s;
 
 transform:scale(1.05);
 }
+
+.active-link{
+
+background:
+rgba(139,92,246,.18);
+
+border-left:
+4px solid var(--purple);
+
+box-shadow:
+0 0 20px rgba(139,92,246,.3);
+}
