@@ -8,8 +8,7 @@ title: Skills Assessment
 <ul>
 
 <li>
-<a href="/"
-class="{% if page.title == 'Skills Assessment' %}active-link{% endif %}">
+<a href="/">
 <span class="sidebar-icon">🏠</span>
 <span class="sidebar-text">Home</span>
 </a>
@@ -23,7 +22,8 @@ class="{% if page.title == 'Skills Assessment' %}active-link{% endif %}">
 </li>
 
 <li>
-<a href="/section-b">
+<a href="/section-b"
+class="{% if page.title == 'Skills Assessment' %}active-link{% endif %}">
 <span class="sidebar-icon">📚</span>
 <span class="sidebar-text">Skills Assessment</span>
 </a>
