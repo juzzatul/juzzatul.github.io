@@ -8,8 +8,7 @@ title: Learning Evidence
 <ul>
 
 <li>
-<a href="/"
-class="{% if page.title == 'Learning Evidence' %}active-link{% endif %}">
+<a href="/">
 <span class="sidebar-icon">🏠</span>
 <span class="sidebar-text">Home</span>
 </a>
@@ -37,7 +36,8 @@ class="{% if page.title == 'Learning Evidence' %}active-link{% endif %}">
 </li>
 
 <li>
-<a href="/section-d">
+<a href="/section-d"
+class="{% if page.title == 'Learning Evidence' %}active-link{% endif %}">
 <span class="sidebar-icon">📂</span>
 <span class="sidebar-text">Learning Evidence</span>
 </a>
