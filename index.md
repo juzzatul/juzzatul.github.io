@@ -8,7 +8,8 @@ title: Home
 <ul>
 
 <li>
-<a href="/">
+<a href="/"
+class="{% if page.title == 'Home' %}active-link{% endif %}">
 <span class="sidebar-icon">🏠</span>
 <span class="sidebar-text">Home</span>
 </a>
