@@ -1,28 +1,219 @@
 ---
 layout: default
-title: "📂 Section E: Personal Reflection"
+title: Reflection
 ---
 
-# 🗂️ Portfolio Navigation Tabs
-[🏠 Home](/) | [🅰️ Section A](/section-a) | [🅱️ Section B](/section-b) | [🇨️ Section C](/section-c) | [ㄉ Section D](/section-d) | [<span style="color:#ff5722; font-weight:bold; font-size:1.1em;">🅴 Section E</span>](#)
+<div class="sidebar">
 
----
+<ul>
 
-### Chosen Target Company: Sabah Electricity Sdn. Bhd. (SESB)
+<li>
+<a href="/">
+<span class="sidebar-icon">🏠</span>
+<span class="sidebar-text">Home</span>
+</a>
+</li>
 
-#### 1. Why do you want to work for this company, and what value can you bring?
-I want to work for Sabah Electricity Sdn. Bhd. because it is the foundational lifeline of Sabah's critical public infrastructure. Protecting an energy grid and utility distribution network against modern digital threats is an absolute operational necessity that perfectly aligns with my career goals. Ensuring the security of Supervisory Control and Data Acquisition (SCADA) elements and core internal utility data streams directly impacts community stability.
+<li>
+<a href="/section-a">
+<span class="sidebar-icon">💼</span>
+<span class="sidebar-text">Career Exploration</span>
+</a>
+</li>
 
-The value I bring to SESB is a distinct engineering capability to diagnose low-level anomalies and implement automated security auditing routines. My background means I approach defense at the granular packet layer, which is essential for protecting sensitive hardware endpoints and industrial control loops. Furthermore, running a small business has built my baseline workplace maturity, client communication, and a practical sense of operational efficiency that enables me to immediately align with engineering and incident-handling teams.
+<li>
+<a href="/section-b">
+<span class="sidebar-icon">📚</span>
+<span class="sidebar-text">Skills Assessment</span>
+</a>
+</li>
 
-#### 2. What skills make you suitable for this job?
-* **Low-Level Network Auditing:** Advanced familiarity with packet capture analysis and monitoring protocol layers using Wireshark to isolate network layer vulnerabilities.
-* **Security Scripting & Automation:** Strong programming proficiency in Python and C++ to automate repetitive security monitoring tasks, write log parsers, and deploy lightweight utilities.
-* **Analytical Threat Modeling:** Deep interest and academic experience in studying secure data embedding, data-hiding mechanisms, and communication channel resilience.
+<li>
+<a href="/section-c">
+<span class="sidebar-icon">🎯</span>
+<span class="sidebar-text">Career Development</span>
+</a>
+</li>
 
-#### 3. What are your strengths and weaknesses?
-* **Strength:** **Deep Technical Curiosity & Problem-Solving Persistence.** When a network protocol or a segment of code exhibits unexpected behavior or vulnerabilities, I possess the technical endurance to dive into raw packets or source material to isolate the root cause and engineer a custom script or solution from scratch.
-* **Weakness:** **Granular Perfectionism.** I sometimes spend an excessive amount of time optimizing small execution details or micro-tuning technical configurations. To balance this, I am actively training myself to implement structured time-blocking methods, prioritizing higher-level operational project goals and deadlines before fine-tuning smaller code metrics.
+<li>
+<a href="/section-d">
+<span class="sidebar-icon">📂</span>
+<span class="sidebar-text">Learning Evidence</span>
+</a>
+</li>
 
-#### 4. Why should a company choose to hire you?
-SESB should choose to hire me because I offer a strong blend of a Computer Network Security specialization, hands-on programming agility, and real-world execution discipline. I view utility network security through a builder’s lens—focusing on how to build localized parsing scripts, protect systemic network traffic lanes, and defend industrial data assets without interrupting daily service reliability.
+<li>
+<a href="/section-e">
+<span class="sidebar-icon">✍️</span>
+<span class="sidebar-text">Reflection</span>
+</a>
+</li>
+
+</ul>
+
+</div>
+
+<div class="main-content">
+
+<div class="card">
+
+<img src="/assets/images/reflection-banner.jpg" class="project-image">
+
+</div>
+
+<div class="card">
+
+<h2>💭 Professional Reflection</h2>
+
+<div class="quote-box">
+
+"Protecting digital infrastructure is not only about technology—it is about safeguarding people, services, and communities that rely on secure systems every day."
+
+</div>
+
+</div>
+
+<h1>✍️ Personal Reflection</h1>
+
+<p class="hero-subtitle">
+Reflecting on my career aspirations, professional values, and future contributions within the cybersecurity industry.
+</p>
+
+<div class="card">
+
+<h2>🏢 Target Organization</h2>
+
+<h3>Sabah Electricity Sdn. Bhd. (SESB)</h3>
+
+<p>
+Sabah Electricity Sdn. Bhd. is responsible for delivering electricity services across Sabah and plays a critical role in supporting public infrastructure and economic activities. As organizations increasingly rely on digital technologies, protecting critical infrastructure has become an essential cybersecurity priority.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>🎯 Why I Want to Work at SESB</h2>
+
+<p>
+I am interested in working at SESB because it operates critical infrastructure that directly impacts communities and businesses. The opportunity to contribute to the security and reliability of systems supporting essential services aligns strongly with my professional interests in cybersecurity and network protection.
+</p>
+
+<p>
+Working within a critical infrastructure environment would provide valuable opportunities to apply technical knowledge while contributing to meaningful organizational objectives that benefit society.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>💡 Value I Can Contribute</h2>
+
+<p>
+I can contribute a combination of technical knowledge, analytical thinking, and a strong commitment to continuous learning. My background in Computer Network Security has provided exposure to network monitoring, cybersecurity principles, programming, and infrastructure protection concepts.
+</p>
+
+<p>
+In addition, my experience managing a small business has strengthened my communication, adaptability, responsibility, and problem-solving skills, allowing me to work effectively in professional environments.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>🛡 Skills That Support My Career Goals</h2>
+
+<span class="badge">Network Security</span>
+<span class="badge">Cybersecurity</span>
+<span class="badge">Wireshark</span>
+<span class="badge">Python</span>
+<span class="badge">Linux</span>
+<span class="badge">Problem Solving</span>
+<span class="badge">Communication</span>
+<span class="badge">Critical Thinking</span>
+
+<p>
+These skills provide a strong foundation for pursuing a professional role within cybersecurity and network security environments.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>🌟 Strengths</h2>
+
+<ul>
+
+<li>Strong analytical and problem-solving mindset.</li>
+
+<li>Passion for cybersecurity and continuous learning.</li>
+
+<li>Ability to work independently and collaboratively.</li>
+
+<li>Strong commitment to completing tasks effectively.</li>
+
+<li>Experience balancing business and academic responsibilities.</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>⚠️ Areas for Improvement</h2>
+
+<ul>
+
+<li>Need additional industry experience.</li>
+
+<li>Continue strengthening Linux administration skills.</li>
+
+<li>Improve cloud security knowledge.</li>
+
+<li>Gain more exposure to enterprise cybersecurity environments.</li>
+
+</ul>
+
+<p>
+To address these areas, I plan to pursue professional certifications, practical projects, internships, and continuous self-learning opportunities.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>🚀 Why Should an Organization Hire Me?</h2>
+
+<p>
+An organization should consider hiring me because I bring a strong combination of technical foundations, enthusiasm for cybersecurity, and a willingness to continuously improve. I am committed to learning new technologies, solving complex problems, and contributing positively to organizational objectives.
+</p>
+
+<p>
+My goal is not only to develop as a cybersecurity professional but also to become a valuable team member who supports secure, reliable, and resilient technology environments.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>🏆 Final Reflection</h2>
+
+<div class="quote-box">
+
+"Cybersecurity is a journey of continuous learning, adaptation, and responsibility. Every project, certification, and experience contributes to building the knowledge and discipline required to protect digital systems and critical infrastructure."
+
+</div>
+
+<p>
+This portfolio represents my academic journey, professional aspirations, and commitment to developing the skills required for a successful career in cybersecurity and network security.
+</p>
+
+</div>
+
+<div class="footer">
+
+Cybersecurity & Network Security Portfolio © 2026
+
+</div>
+
+</div>
