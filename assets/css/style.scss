@@ -178,7 +178,7 @@ body{
 
     overflow:hidden;
 
-    margin-bottom:180px;
+    margin-bottom:140px;
 
     box-shadow:
     0 15px 40px rgba(0,0,0,.4);
@@ -227,7 +227,7 @@ body{
 
     position:absolute;
 
-    bottom:-110px;
+    bottom:-50px;
 
     left:50%;
 
@@ -575,12 +575,6 @@ a:hover{
         height:250px;
     }
 
-    .profile-image{
-
-        width:130px;
-        height:130px;
-    }
-
     .hero-title{
 
         font-size:2rem;
@@ -769,9 +763,9 @@ h2::after{
 
 .profile-image{
 
-    width:230px;
+    width:200px;
 
-    height:230px;
+    height:200px;
 
     cursor:pointer;
 
