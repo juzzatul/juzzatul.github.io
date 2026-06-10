@@ -43,7 +43,8 @@ title: Reflection
 </li>
 
 <li>
-<a href="/section-e">
+<a href="/section-e"
+class="{% if page.title == 'Reflection' %}active-link{% endif %}">
 <span class="sidebar-icon">✍️</span>
 <span class="sidebar-text">Reflection</span>
 </a>
