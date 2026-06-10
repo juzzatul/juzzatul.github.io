@@ -68,7 +68,7 @@ title: Home
 <div class="hero-text">
 
 <div class="hero-title">
-Juzzatul
+NUR IZZATULAIN BINTI JAMAIN
 </div>
 
 <div class="hero-subtitle">
