@@ -658,3 +658,305 @@ border-left:
 box-shadow:
 0 0 20px rgba(139,92,246,.3);
 }
+
+/* =====================================
+   LUXURY PORTFOLIO UPGRADE
+   ===================================== */
+
+/* ACTIVE SIDEBAR */
+
+.active-link{
+
+    background:
+    rgba(139,92,246,.18);
+
+    border-left:
+    4px solid var(--purple);
+
+    box-shadow:
+    0 0 20px rgba(139,92,246,.3);
+}
+
+/* CARD HOVER EFFECT */
+
+.card:hover{
+
+    background:var(--card-hover);
+
+    transform:
+    translateY(-8px);
+
+    box-shadow:
+    0 15px 40px rgba(139,92,246,.15);
+}
+
+/* GLOWING SECTION HEADINGS */
+
+h2{
+
+    color:white;
+
+    font-size:1.8rem;
+
+    margin-bottom:15px;
+
+    margin-top:20px;
+
+    position:relative;
+}
+
+h2::after{
+
+    content:"";
+
+    display:block;
+
+    width:80px;
+
+    height:3px;
+
+    margin-top:10px;
+
+    background:
+    linear-gradient(
+    90deg,
+    var(--purple),
+    transparent
+    );
+}
+
+/* CYBER GLOW TITLE */
+
+.hero-title{
+
+    font-size:2.8rem;
+
+    font-weight:800;
+
+    color:white;
+
+    text-shadow:
+
+    0 0 10px rgba(139,92,246,.4),
+
+    0 0 30px rgba(139,92,246,.3);
+}
+
+/* FLOATING PROFILE */
+
+.profile-image{
+
+    width:230px;
+
+    height:230px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+    animation:
+    float 5s ease-in-out infinite;
+}
+
+.profile-image:hover{
+
+    transform:
+    scale(1.05);
+
+    box-shadow:
+    0 0 60px rgba(139,92,246,.8);
+}
+
+@keyframes float{
+
+    0%{
+
+        transform:
+        translateY(0);
+    }
+
+    50%{
+
+        transform:
+        translateY(-12px);
+    }
+
+    100%{
+
+        transform:
+        translateY(0);
+    }
+}
+
+/* CYBER BADGES */
+
+.badge{
+
+    display:inline-block;
+
+    padding:10px 18px;
+
+    margin:6px;
+
+    border-radius:50px;
+
+    background:
+    rgba(139,92,246,.12);
+
+    border:
+    1px solid rgba(139,92,246,.35);
+
+    color:#e5dcff;
+
+    font-size:.9rem;
+
+    font-weight:600;
+
+    transition:.3s;
+}
+
+.badge:hover{
+
+    transform:
+    translateY(-3px);
+
+    box-shadow:
+    0 0 20px rgba(139,92,246,.35);
+}
+
+/* PAGE FADE IN */
+
+.main-content{
+
+    animation:
+    fadeUp .8s ease;
+}
+
+@keyframes fadeUp{
+
+    from{
+
+        opacity:0;
+
+        transform:
+        translateY(30px);
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:
+        translateY(0);
+    }
+}
+
+/* PROFESSIONAL FOOTER */
+
+.footer{
+
+    text-align:center;
+
+    margin-top:80px;
+
+    padding-top:25px;
+
+    border-top:
+    1px solid var(--border);
+
+    color:#8f8f9f;
+
+    font-size:.95rem;
+}
+
+/* CUSTOM SCROLLBAR */
+
+::-webkit-scrollbar{
+
+    width:10px;
+}
+
+::-webkit-scrollbar-track{
+
+    background:#0c0c11;
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:var(--purple);
+
+    border-radius:50px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+    background:var(--purple-light);
+}
+
+/* TIMELINE UPGRADE */
+
+.timeline{
+
+    border-left:
+    4px solid var(--purple);
+
+    padding-left:30px;
+
+    position:relative;
+}
+
+.timeline-item{
+
+    position:relative;
+
+    margin-bottom:35px;
+}
+
+.timeline-item::before{
+
+    content:"";
+
+    position:absolute;
+
+    left:-39px;
+
+    top:5px;
+
+    width:15px;
+
+    height:15px;
+
+    border-radius:50%;
+
+    background:var(--purple);
+
+    box-shadow:
+    0 0 20px rgba(139,92,246,.8);
+}
+
+/* IMAGE HOVER */
+
+.project-image{
+
+    transition:.4s ease;
+}
+
+.project-image:hover{
+
+    transform:
+    scale(1.02);
+
+    box-shadow:
+    0 0 35px rgba(139,92,246,.25);
+}
+
+/* GLASSMORPHISM MODAL */
+
+.modal-content{
+
+    backdrop-filter:
+    blur(20px);
+
+    box-shadow:
+    0 0 50px rgba(139,92,246,.25);
+}
