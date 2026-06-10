@@ -8,7 +8,8 @@ title: Career Development
 <ul>
 
 <li>
-<a href="/">
+<a href="/"
+class="{% if page.title == 'Career Development' %}active-link{% endif %}">
 <span class="sidebar-icon">🏠</span>
 <span class="sidebar-text">Home</span>
 </a>
