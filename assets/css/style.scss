@@ -233,7 +233,7 @@ body{
 
     transform:translateX(-50%);
 
-    z-index:5;
+    z-index:10;
 }
 
 .profile-image{
@@ -259,7 +259,7 @@ body{
 
     text-align:center;
 
-    margin-top:90px;
+    margin-top:140px;
 
     margin-bottom:50px;
 }
@@ -763,16 +763,24 @@ h2::after{
 
 .profile-image{
 
-    width:200px;
+    width:240px;
+    height:240px;
 
-    height:200px;
+    border-radius:50%;
+
+    object-fit:cover;
+
+    border:8px solid var(--bg);
+
+    box-shadow:
+        0 0 30px rgba(139,92,246,.5),
+        0 0 60px rgba(139,92,246,.25);
 
     cursor:pointer;
 
     transition:.3s;
 
-    animation:
-    float 4s ease-in-out infinite;
+    animation:float 4s ease-in-out infinite;
 }
 
 .profile-image:hover{
