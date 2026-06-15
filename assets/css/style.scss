@@ -431,15 +431,19 @@ td{
 
 .project-image{
 
-    width:100%;
+    width:70%;
+
+    max-width:650px;
+
+    display:block;
+
+    margin:20px auto;
 
     border-radius:20px;
 
     border:1px solid var(--border);
 
-    margin-top:15px;
-
-    margin-bottom:15px;
+    transition:.4s ease;
 }
 
 /* =====================
