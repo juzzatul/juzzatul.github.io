@@ -59,7 +59,7 @@ class="{% if page.title == 'Learning Evidence' %}active-link{% endif %}">
 <h1>📂 Learning Evidence</h1>
 
 <p class="hero-subtitle">
-A collection of academic projects, certifications, and community engagement activities that demonstrate my development in cybersecurity and network security.
+A collection of academic projects, certifications, laboratory activities, and community engagement experiences that demonstrate my development in cybersecurity and network security.
 </p>
 
 <div class="card">
@@ -148,6 +148,84 @@ The experience improved my communication, teamwork, leadership, and problem-solv
 
 <div class="card">
 
+<h2>🌐 Cisco Networking Learning</h2>
+
+<p>
+Throughout my networking studies, I completed practical Cisco networking laboratory activities involving routing, switching, VLAN configuration, subnetting, and network troubleshooting. These exercises strengthened my understanding of enterprise networking concepts and prepared me for future professional certification goals.
+</p>
+
+<div class="gallery">
+
+<img src="/assets/images/cisco1.png">
+
+<img src="/assets/images/cisco2.png">
+
+<img src="/assets/images/cisco3.png">
+
+</div>
+
+<br>
+
+<span class="badge">Cisco</span>
+<span class="badge">Routing</span>
+<span class="badge">Switching</span>
+<span class="badge">Networking</span>
+
+</div>
+
+<div class="card">
+
+<h2>📡 Wireshark Packet Analysis</h2>
+
+<img src="/assets/images/wireshark.png" class="project-image">
+
+<p>
+Wireshark was used extensively to inspect and analyze network traffic, identify communication patterns, understand protocol behavior, and troubleshoot connectivity issues. This practical experience enhanced my packet analysis and network monitoring capabilities.
+</p>
+
+<span class="badge">Wireshark</span>
+<span class="badge">Packet Analysis</span>
+<span class="badge">Network Monitoring</span>
+<span class="badge">TCP/IP</span>
+
+</div>
+
+<div class="card">
+
+<h2>🐉 Kali Linux Security Laboratory</h2>
+
+<img src="/assets/images/kalilinux.png" class="project-image">
+
+<p>
+Kali Linux provided a practical cybersecurity environment where I explored security tools, Linux administration concepts, vulnerability assessment techniques, and cybersecurity laboratory exercises. These activities strengthened my understanding of defensive and offensive security fundamentals.
+</p>
+
+<span class="badge">Kali Linux</span>
+<span class="badge">Cybersecurity</span>
+<span class="badge">Linux</span>
+<span class="badge">Security Tools</span>
+
+</div>
+
+<div class="card">
+
+<h2>🔍 Digital Forensics Investigation</h2>
+
+<img src="/assets/images/digitalforensic1.png" class="project-image">
+
+<p>
+Digital forensics activities involved evidence acquisition, artifact examination, file system analysis, and investigative reporting. Through forensic exercises, I gained practical exposure to incident investigation methodologies and digital evidence handling procedures.
+</p>
+
+<span class="badge">Digital Forensics</span>
+<span class="badge">Evidence Analysis</span>
+<span class="badge">Investigation</span>
+<span class="badge">Incident Response</span>
+
+</div>
+
+<div class="card">
+
 <h2>🏆 Skills Gained Through Learning Activities</h2>
 
 <div class="gallery">
@@ -163,6 +241,8 @@ The experience improved my communication, teamwork, leadership, and problem-solv
 <li>Python Programming</li>
 <li>Linux Administration</li>
 <li>Network Troubleshooting</li>
+<li>Digital Forensics</li>
+<li>Routing & Switching</li>
 </ul>
 
 </div>
@@ -191,7 +271,7 @@ The experience improved my communication, teamwork, leadership, and problem-solv
 <h2>🚀 Portfolio Growth Summary</h2>
 
 <p>
-The projects, certifications, and community activities presented in this portfolio collectively demonstrate my continuous development as a Computer Network Security student. They reflect both technical competency and professional growth, preparing me for future opportunities within the cybersecurity industry.
+The projects, certifications, cybersecurity laboratories, and community activities presented in this portfolio collectively demonstrate my continuous development as a Computer Network Security student. They reflect both technical competency and professional growth, preparing me for future opportunities within the cybersecurity industry and supporting my long-term goal of becoming a Network Security Analyst.
 </p>
 
 </div>
