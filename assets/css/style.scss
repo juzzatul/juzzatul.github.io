@@ -978,9 +978,11 @@ h2::after{
     border-radius:20px;
 
     margin-top:20px;
+
+    border:1px solid var(--border);
 }
 
-.slide{
+.slider-container img{
 
     position:absolute;
 
@@ -988,13 +990,16 @@ h2::after{
 
     height:100%;
 
-    object-fit:cover;
+    object-fit:contain;
+
+    background:#111116;
 
     opacity:0;
 
     transition:opacity 1s ease-in-out;
 }
 
-.slide.active{
+.slider-container img.active{
+
     opacity:1;
 }
