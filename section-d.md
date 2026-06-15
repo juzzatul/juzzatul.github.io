@@ -154,13 +154,16 @@ The experience improved my communication, teamwork, leadership, and problem-solv
 Throughout my networking studies, I completed practical Cisco networking laboratory activities involving routing, switching, VLAN configuration, subnetting, and network troubleshooting. These exercises strengthened my understanding of enterprise networking concepts and prepared me for future professional certification goals.
 </p>
 
-<div class="gallery">
+<div class="slider-container">
 
-<img src="/assets/images/cisco1.png">
+<img class="slide active"
+src="/assets/images/cisco1.png">
 
-<img src="/assets/images/cisco2.png">
+<img class="slide"
+src="/assets/images/cisco2.png">
 
-<img src="/assets/images/cisco3.png">
+<img class="slide"
+src="/assets/images/cisco3.png">
 
 </div>
 
