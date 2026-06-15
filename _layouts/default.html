@@ -50,27 +50,29 @@ modal.style.display = "none";
    AUTO IMAGE SLIDER
    ========================== */
 
-document.querySelectorAll('.slider-container').forEach(slider => {
+document.querySelectorAll('.slider-container').forEach(container => {
 
-const slides = slider.querySelectorAll('img');
+    const track =
+    container.querySelector('.slider-track');
 
-let current = 0;
+    const slides =
+    track.querySelectorAll('img');
 
-if(slides.length > 0){
+    let current = 0;
 
-slides[0].classList.add('active');
+    setInterval(() => {
 
-setInterval(() => {
+        current++;
 
-slides[current].classList.remove('active');
+        if(current >= slides.length){
 
-current = (current + 1) % slides.length;
+            current = 0;
+        }
 
-slides[current].classList.add('active');
+        track.style.transform =
+        `translateX(-${current * 100}%)`;
 
-}, 3000);
-
-}
+    }, 3000);
 
 });
 
