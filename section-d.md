@@ -156,14 +156,13 @@ Throughout my networking studies, I completed practical Cisco networking laborat
 
 <div class="slider-container">
 
-<img class="slide active"
-src="/assets/images/cisco1.png">
+<div class="slider-track">
 
-<img class="slide"
-src="/assets/images/cisco2.png">
+<img src="/assets/images/cisco1.png">
 
-<img class="slide"
-src="/assets/images/cisco3.png">
+<img src="/assets/images/cisco2.png">
+
+<img src="/assets/images/cisco3.png">
 
 </div>
 
