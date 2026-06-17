@@ -78,6 +78,8 @@ A collection of academic projects, certifications, laboratory activities, and co
 
 </div>
 
+<br>
+
 <p>
 This project focused on developing a secure audio steganography system using Direct Sequence Spread Spectrum (DSSS) and Psychoacoustic Masking techniques. The objective was to embed confidential information into audio signals while maintaining sound quality and reducing detectability.
 </p>
