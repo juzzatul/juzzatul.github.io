@@ -208,7 +208,7 @@ LinkedIn Profile
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 📄
-<a href="/assets/files/resume.pdf"
+<a href="/assets/files/CV_NUR_IZZATULAIN_JAMAIN (1).pdf"
 target="_blank">
 Download Resume
 </a>
