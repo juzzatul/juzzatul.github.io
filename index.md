@@ -197,15 +197,23 @@ class="modal-profile">
 <td>Python, Wireshark, Linux, Cisco Networking</td>
 </tr>
 
-<tr>
-<td><strong>LinkedIn</strong></td>
-<td>
-<a href="https://www.linkedin.com/in/nur-izzatulain-478523310"
+<p style="text-align:center; margin-top:20px;">
+
+🔗
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"
 target="_blank">
-🔗 Connect with me on LinkedIn
+LinkedIn Profile
 </a>
-</td>
-</tr>
+
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+📄
+<a href="/assets/files/resume.pdf"
+target="_blank">
+Download Resume
+</a>
+
+</p>
 
 </table>
 
