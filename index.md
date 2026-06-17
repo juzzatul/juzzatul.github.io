@@ -144,7 +144,7 @@ To establish a professional career as a Network Security Analyst capable of iden
 
 <div class="footer">
 
-Cybersecurity & Network Security Portfolio © 2026
+Juzzatul's Portfolio © 2026
 
 </div>
 
@@ -195,6 +195,16 @@ class="modal-profile">
 <tr>
 <td><strong>Technical Skills</strong></td>
 <td>Python, Wireshark, Linux, Cisco Networking</td>
+</tr>
+
+<tr>
+<td><strong>LinkedIn</strong></td>
+<td>
+<a href="https://www.linkedin.com/in/nur-izzatulain-478523310"
+target="_blank">
+🔗 Connect with me on LinkedIn
+</a>
+</td>
 </tr>
 
 </table>
